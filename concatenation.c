@@ -6,7 +6,7 @@
 int main() 
 { 
     
-	char str1[100],str2[100],str3[100]; 
+	char str1[150],str2[150],str3[150]; 
 	int i = 0, j = 0; 
 
 	
